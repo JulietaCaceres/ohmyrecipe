@@ -1,0 +1,110 @@
+[
+	{
+	  "name": "Papa",
+	  "category": "Verduras"
+	},  
+	{
+	  "name": "Cebolla",
+	  "category": "Verduras"
+	},
+	{
+	  "name": "Zanahoria",
+	  "category": "Verduras"
+	},
+	{
+	  "name": "Espinaca",
+	  "category": "Verduras"
+	},
+	{
+	  "name": "Tomate",
+	  "category": "Verduras"
+	},
+	{
+	  "name": "Apio",
+	  "category": "Verduras"
+	},
+	{
+	  "name": "Batata",
+	  "category": "Verduras"
+	}, 
+	{
+	  "name": "Bondiola",
+	  "category": "Animales"
+	},
+	{
+	  "name": "Huevo",
+	  "category": "Animales"
+	},
+	{
+	  "name": "Carne picada",
+	  "category": "Animales"
+	},
+	{
+	  "name": "Pechuga",
+	  "category": "Animales"
+	},
+	{
+	  "name": "Nalga",
+	  "category": "Animales"
+	},
+	{
+	  "name": "Matambre",
+	  "category": "Animales"
+	},   
+	{
+	  "name": "Champiñon",
+	  "category": "Hongos"
+	},    
+	{
+	  "name": "Tapas de empanada",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Jamon",
+	  "category": "Almacen"
+	}, 
+	{
+	  "name": "Queso",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Prepizza",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Salsa de tomate",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Fideos",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Crema",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Queso roquefort",
+	  "category": "Almacen"
+	},   
+	{
+	  "name": "Manteca",
+	  "category": "Almacen"
+	},    
+	{
+	  "name": "Pan rallado",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Cerveza",
+	  "category": "Almacen"
+	},   
+	{
+	  "name": "Miel",
+	  "category": "Almacen"
+	},
+	{
+	  "name": "Yerba",
+	  "category": "Almacen"
+	}
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Tortilla de papa",
+	"img_src": "https://cdn1.cocina-familiar.com/recetas/thumb/tortilla-de-patata-con-cebolla.jpg",
+    "tags":
+	[
+	  "Celiaco"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Papa",
+      "Cebolla",
+      "Huevo"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Tortilla de papa y champiñones",
+	"img_src": "https://i.pinimg.com/originals/6e/90/7a/6e907a8ae169d87801fd63bd6e2ad7d6.jpg",
+    "tags":
+	[
+	  "Celiaco"
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Papa",
+      "Cebolla",
+      "Huevo",
+	  "Champiñon"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Empanadas de carne",
+	"img_src": "https://t1.rg.ltmcdn.com/es/images/5/8/4/img_empanadas_de_carne_cortada_a_cuchillo_7485_600.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+	  "Tapa de empanada",
+      "Carne picada",
+      "Cebolla",
+      "Morron",
+	  "Huevo"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Empanadas de jamon y queso",
+	"img_src": "https://placeralplato.com/files/2018/07/empanadas-de-jamn-y-queso.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Tapa de empanada",
+      "Jamon",
+      "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Empanadas de cebolla y queso",
+	"img_src": "https://img.pystatic.com/products/2000437_201682123912.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Tapa de empanada",
+      "Cebolla",
+      "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Pizza",
+	"img_src": "http://www.fm899.com.ar/public/images/noticias/50228-revelan-cual-es-el-secreto-para-hacer-una-pizza-perfecta.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Prepizza",
+      "Salsa de tomate",
+      "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Pizza fugazza",
+	"img_src": "https://t2.rg.ltmcdn.com/es/images/7/0/2/img_pizza_fugazza_7207_600.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Prepizza",
+      "Cebolla",
+      "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos con fileto",
+	"img_src": "http://3.bp.blogspot.com/-8OcfcI1_F5E/T3CmI9Jr7WI/AAAAAAAAEl0/WZ2GLuvFYZA/s1600/Fideos_con_salsa_de_tomate_1bBC.jpg",
+    "tags":
+	[
+	  "Vegetariano"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Fideos",
+      "Salsa de tomate",
+	  "Cebolla"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos con bolognesa",
+	"img_src": "http://www.eldiaonline.com/wp-content/uploads/2014/02/Tallarines.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Fideos",
+      "Salsa de tomate",
+      "Cebolla",
+	  "Carne picada",
+	  "Morron"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos con roquefort",
+	"img_src": "https://feralf.com/images/Autos/Patri/roquefort_fideos_1.jpg",
+    "tags":
+	[
+	  "Vegetariano"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Fideos",
+      "Crema",
+      "Queso roquefort"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos con crema",
+	"img_src": "https://media-cdn.tripadvisor.com/media/photo-s/08/e3/36/ac/loving-hut.jpg",
+    "tags":
+	[
+	  "Vegetariano"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Fideos",
+      "Crema"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos salteados",
+	"img_src": "https://delokos.files.wordpress.com/2014/05/fideos-chinos-salteados-con-verduras-y-seitc3a1n-copia.jpg",
+    "tags":
+	[
+	  "Vegetariano"
+	],
+	"difficulty": 3,
+    "ingredients":
+	[
+      "Fideos",
+      "Cebolla",
+	  "Morron",
+	  "Zanahoria"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Fideos con manteca",
+	"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_710iD117lTLvEr1kNjXM9NCowh9t1Wm3hHkdy6FfSG_MnXj",
+    "tags":
+	[
+	  "Vegetariano"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Fideos",
+      "Manteca"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Omelette de jamon y queso",
+	"img_src": "https://transdoc.com/assets/images/users/susana/23.jpg",
+    "tags":
+	[
+	  "Celiaco"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Huevo",
+      "Jamon",
+	  "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Omelette de espinaca",
+	"img_src": "http://www.cocinayvino.com/wp-content/uploads/2017/05/50852234_l.jpg",
+    "tags":
+	[
+	  "Vegetariano",
+	  "Saludable",
+	  "Celiaco"
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Huevo",
+      "Espinaca",
+	  "Cebolla"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Ensalada tomate, espinaca y zanahoria",
+	"img_src": "",
+    "tags":
+	[
+	  "Vegetariano",
+	  "Vegano",
+	  "Saludable",
+	  "Celiaco"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Tomate",
+      "Espinaca",
+	  "Zanahoria"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Ensalada tomate y huevo",
+	"img_src": "",
+    "tags":
+	[
+	  "Vegetariano",
+	  "Saludable",
+	  "Celiaco"
+	],
+	"difficulty": 1,
+    "ingredients":
+	[
+      "Tomate",
+      "Huevo"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Pechuga rellena con jamon y queso",
+	"img_src": "",
+    "tags":
+	[
+	  "Celiaco"
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Pechuga",
+	  "Jamon",
+	  "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Milanesa de nalga",
+	"img_src": "https://www.cocina-uruguaya.com/base/stock/name/44-image/44-image_web.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Nalga",
+      "Huevo",
+	  "Pan rallado"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Matambre a la pizza",
+	"img_src": "http://locosxlaparrilla.com/wp-content/uploads/2016/10/matambre-a-la-pizza-a-la-parrilla-receta-salsa-locosxlaparrilla-1.jpg",
+    "tags":
+	[
+	  "Celiaco"
+	],
+	"difficulty": 2,
+    "ingredients":
+	[
+      "Matambre",
+      "Salsa de tomate",
+	  "Queso"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Bondiola braseada a la cerveza",
+	"img_src": "http://www.electrolumer.com/wp-content/uploads/2016/06/9d0f3c74-4e82-47fc-8f93-bd45abdee5b0.jpg",
+    "tags":
+	[
+
+	],
+	"difficulty": 3,
+    "ingredients":
+	[
+      "Bondiola",
+      "Cebolla",
+	  "Zanahoria",
+	  "Apio",
+	  "Cerveza",
+	  "Batata",
+	  "Miel"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  },
+  {
+    "name": "Mate",
+	"img_src": "https://www.airedesantafe.com.ar/app/uploads/2018/11/efgvfege-1.jpg_1572130063-1.jpg",
+    "tags":
+	[
+		"Vegano",
+		"Vegetariano",
+		"Celiaco"
+	],
+	"difficulty": 3,
+    "ingredients":
+	[
+      "Yerba"
+    ],
+	"instructions": "Pelar y cortar las papas en rodajas finas.\nRetirar y escurrir sobre el papel absorbente.\n Mezclar los huevos con una pizca de sal e incorporar la cabolla y las papas.\nVerter la preparacion en la sarten.\nCocinar de un lado y cuando este dorada, girarla y cocinar apenas del otro lado"
+  }
+]
